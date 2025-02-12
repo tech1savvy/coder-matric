@@ -1,6 +1,10 @@
 # coder-matric
 > Compare and analyze coder profiles across multiple platforms in one place. Track rankings, performance, and progress effortlessly. 
 
+# Resources
+- https://www.stopstalk.com/
+- https://github.com/stopstalk
+
 ## Features
 ### 1. **Compete with Friends** 🏆  
 - **Leaderboard** – Compare rankings with friends across platforms.  
